@@ -1,2 +1,7 @@
-# dummy_template
-Dummy cookiecutter template for testing Python Starters
+# {{ cookiecutter.project_name }}
+
+{{ cookiecutter.project_description }}
+
+## Author
+
+{{ cookiecutter.author_name }}
